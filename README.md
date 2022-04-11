@@ -11,7 +11,7 @@ A tool to help you transfer your youtube subscriptions to a new google user
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/fatalerrortan/yt_subscription_transfer/blob/main/pics/console.png?raw=true)
 
 
 ## Release
