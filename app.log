@@ -1,0 +1,12 @@
+
+[2022-04-12 01:04:10,403] [INFO] [app.py] -----------------------------App is launching!!!-----------------------------
+[2022-04-12 01:04:14,300] [INFO] [app.py]  /Users/Test/Desktop/yt_subsription_transfer/test.csv is in use
+[2022-04-12 01:04:36,180] [INFO] [app.py] subscribing - 币圈基本功 Cryptonomics - http://www.youtube.com/channel/UC--SKpbkpeKGeWT4IRwfi4A
+[2022-04-12 01:04:37,921] [INFO] [app.py] 币圈基本功 Cryptonomics was successfully subscribed!
+[2022-04-12 01:04:37,921] [INFO] [app.py] subscribing - Music - http://www.youtube.com/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ
+[2022-04-12 01:04:40,230] [INFO] [app.py] Music was subscribed previously! skip!
+[2022-04-12 01:04:40,230] [INFO] [app.py] subscribing - 米斯特姚 - http://www.youtube.com/channel/UC-A8TcwtSHEtfJZGy0yeUGQ
+[2022-04-12 01:04:41,946] [INFO] [app.py] 米斯特姚 has been terminated! skip!
+[2022-04-12 01:04:41,946] [INFO] [app.py] subscribing - 狗狗搞笑 - http://www.youtube.com/channel/UC-ldSLsmMpIqOEh4GH320aA
+[2022-04-12 01:04:43,969] [INFO] [app.py] 狗狗搞笑 was successfully subscribed!
+[2022-04-12 01:04:43,969] [INFO] [app.py] Done!
