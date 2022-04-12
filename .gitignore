@@ -1,0 +1,6 @@
+.venv
+__pycache__
+build
+dist
+app.spec
+.DS_Store
